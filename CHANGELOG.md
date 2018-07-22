@@ -1,3 +1,7 @@
+# 1.0.2 - 07/22/2018
+## Miscellaneous Updates
+* [[144538b](https://github.com/spothero/stylelint-config/commit/144538b)] - `chore:` Moved code to public repo for publishing to npm (Matt Przybylski)
+
 # 1.0.1 - 06/21/2018
 ## Miscellaneous Updates
 * [[e7efc6b](https://github.com/spothero/fe-stylelint-config/commit/e7efc6b)] - `build:` Added @spothero/nexus to publish builds and commit linting (Matt Przybylski)
