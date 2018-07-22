@@ -1,0 +1,30 @@
+# 1.0.1 - 06/21/2018
+## Miscellaneous Updates
+* [[e7efc6b](https://github.com/spothero/fe-stylelint-config/commit/e7efc6b)] - `build:` Added @spothero/nexus to publish builds and commit linting (Matt Przybylski)
+
+# 1.0.0 - 06/08/2018 - [Matt Przybylski](mailto:mattp@spothero.com)
+-   **BREAKING:** Added `@spothero` scope and renamed module to `@spothero/stylelint-config`.
+
+# 0.1.7 - 10/31/2017 - [Matt Przybylski](mailto:mattp@spothero.com)
+-   Changed dependencies to install ranges instead of specific version.
+
+# 0.1.6 - 10/31/2017 - [Matt Przybylski](mailto:mattp@spothero.com)
+-   Updated to latest npm dependencies and adjusted deprecated rules.
+
+# 0.1.5 - 05/31/2017 - [Matt Przybylski](mailto:mattp@spothero.com)
+-   Removed `stylelint-no-unsupported-browser-features`. Produced way too much noise in output.
+
+# 0.1.4 - 05/31/2017 - [Matt Przybylski](mailto:mattp@spothero.com)
+-   Added `stylelint-no-unsupported-browser-features` for Browserslist support.
+
+# 0.1.3 - 04/26/2017 - [Matt Przybylski](mailto:mattp@spothero.com)
+-   Removed deprecated rules after dependency updates.
+
+# 0.1.2 - 04/26/2017 - [Matt Przybylski](mailto:mattp@spothero.com)
+-   Updated to latest npm dependencies.
+
+# 0.1.1 - 02/09/2017 - [Matt Przybylski](mailto:mattp@spothero.com)
+-   Reversioning to break Nexus cache for small updates to initial release.
+
+# 0.1.0 - 01/26/2017 - [Matt Przybylski](mailto:mattp@spothero.com)
+-   Initial release.
