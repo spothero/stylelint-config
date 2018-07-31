@@ -15,7 +15,7 @@
     "stylelint-scss": "3.2.0"
   },
   "devDependencies": {
-    "@spothero/commitlint-config": "1.0.0",
+    "@spothero/commitlint-config": "1.1.0",
     "@spothero/npm-publisher": "0.0.5"
   },
   "engines": {
