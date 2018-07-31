@@ -1,3 +1,7 @@
+# 1.0.3 - 07/31/2018
+## Miscellaneous Updates
+* [[c21fbe6](https://github.com/spothero/stylelint-config/commit/c21fbe6)] - `chore:` Update minor version dependencies and clean up rules (Matt Przybylski)
+
 # 1.0.2 - 07/22/2018
 ## Miscellaneous Updates
 * [[144538b](https://github.com/spothero/stylelint-config/commit/144538b)] - `chore:` Moved code to public repo for publishing to npm (Matt Przybylski)
