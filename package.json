@@ -11,8 +11,8 @@
     "release": "npm-release"
   },
   "dependencies": {
-    "stylelint": "9.2.1",
-    "stylelint-scss": "3.1.0"
+    "stylelint": "9.4.0",
+    "stylelint-scss": "3.2.0"
   },
   "devDependencies": {
     "@spothero/commitlint-config": "1.0.0",

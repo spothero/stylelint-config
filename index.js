@@ -1,32 +1,7 @@
 module.exports = {
     extends: [
-        './rules/at-rule',
-        './rules/block',
-        './rules/color',
-        './rules/comment',
-        './rules/custom-media',
-        './rules/custom-property',
-        './rules/declaration-block',
-        './rules/declaration',
-        './rules/font-family',
-        './rules/font-weight',
-        './rules/function',
-        './rules/general-sheet',
-        './rules/keyframe-declaration',
-        './rules/length',
-        './rules/media-query-list',
-        './rules/media',
-        './rules/number',
-        './rules/property',
-        './rules/rule',
-        './rules/scss',
-        './rules/selector-list',
-        './rules/selector',
-        './rules/shorthand-property',
-        './rules/string',
-        './rules/time',
-        './rules/unit',
-        './rules/value-list',
-        './rules/value'
+        './rules/possible-errors',
+        './rules/limit-language-features',
+        './rules/stylistic-issues'
     ].map(require.resolve)
 };
