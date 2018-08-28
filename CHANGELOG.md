@@ -1,3 +1,10 @@
+# 1.0.4 - 08/28/2018
+
+## Miscellaneous Updates
+* [[586a963](https://github.com/spothero/stylelint-config/commit/586a963)] - `build:` Update to using newest npm-publisher for publishing to proper npm registry (Matt Przybylski)
+* [[bb748e9](https://github.com/spothero/stylelint-config/commit/bb748e9)] - `build:` Update to latest @spothero/npm-publisher and add unnecessary published files to .npmignore (Matt Przybylski)
+* [[f756ce6](https://github.com/spothero/stylelint-config/commit/f756ce6)] - `chore:` Bump commitlint version to allow longer commit messages (Matt Przybylski)
+
 # 1.0.3 - 07/31/2018
 ## Miscellaneous Updates
 * [[c21fbe6](https://github.com/spothero/stylelint-config/commit/c21fbe6)] - `chore:` Update minor version dependencies and clean up rules (Matt Przybylski)
