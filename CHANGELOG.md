@@ -1,3 +1,7 @@
+# 1.1.0 - 09/25/2018
+## Dependency Updates
+* [[ff048d5](https://github.com/spothero/stylelint-config/commit/ff048d5)] - Updated dependencies to latest (Matt Przybylski)
+
 # 1.0.4 - 08/28/2018
 
 ## Miscellaneous Updates
