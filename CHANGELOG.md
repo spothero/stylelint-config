@@ -1,3 +1,8 @@
+# 1.1.1 - 10/15/2018
+
+## Miscellaneous Updates
+* [[2132ead](https://github.com/spothero/stylelint-config/commit/2132ead)] - `chore:` Upgrade to latest commitlint config and husky script format (Matt Przybylski)
+
 # 1.1.0 - 09/25/2018
 ## Dependency Updates
 * [[ff048d5](https://github.com/spothero/stylelint-config/commit/ff048d5)] - Updated dependencies to latest (Matt Przybylski)
