@@ -1,3 +1,8 @@
+# 1.1.2 - 11/05/2018
+
+## Miscellaneous Updates
+* [[026e6d7](https://github.com/spothero/stylelint-config/commit/026e6d7)] - `chore:` Upgrade to latest dependencies (Matt Przybylski)
+
 # 1.1.1 - 10/15/2018
 
 ## Miscellaneous Updates
