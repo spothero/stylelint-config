@@ -1,3 +1,9 @@
+# 1.1.3 - 01/08/2019
+
+## Miscellaneous Updates
+* [[c37851f](https://github.com/spothero/stylelint-config/commit/c37851f)] - `chore:` Update to latest deps (Matt Przybylski)
+* [[5f0243a](https://github.com/spothero/stylelint-config/commit/5f0243a)] - `chore:` License under Apache 2.0 instead of MIT (Matt Przybylski)
+
 # 1.1.2 - 11/05/2018
 
 ## Miscellaneous Updates
