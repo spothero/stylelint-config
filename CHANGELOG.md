@@ -1,3 +1,8 @@
+# 1.1.4 - 02/28/2019
+
+## Miscellaneous Updates
+* [[6c06bde](https://github.com/spothero/stylelint-config/commit/6c06bde)] - `chore:` Update deps to latest (Matt Przybylski)
+
 # 1.1.3 - 01/08/2019
 
 ## Miscellaneous Updates
