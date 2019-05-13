@@ -1,3 +1,9 @@
+# 1.1.5 - 05/13/2019
+
+## Miscellaneous Updates
+* [[e7faa87](https://github.com/spothero/stylelint-config/commit/e7faa87)] - `chore:` Update to latest deps including Stylelint 10 support (Matt Przybylski)
+* [[c6b7782](https://github.com/spothero/stylelint-config/commit/c6b7782)] - `chore:` Update deps to latest (Matt Przybylski)
+
 # 1.1.4 - 02/28/2019
 
 ## Miscellaneous Updates
