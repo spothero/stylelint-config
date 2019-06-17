@@ -15,12 +15,12 @@
     }
   },
   "dependencies": {
-    "stylelint": "10.0.1",
-    "stylelint-scss": "3.6.1"
+    "stylelint": "10.1.0",
+    "stylelint-scss": "3.8.0"
   },
   "devDependencies": {
-    "@spothero/commitlint-config": "2.0.4",
-    "@spothero/npm-publisher": "2.2.1"
+    "@spothero/commitlint-config": "2.1.0",
+    "@spothero/npm-publisher": "2.3.0"
   },
   "engines": {
     "node": ">=10.3.0",
