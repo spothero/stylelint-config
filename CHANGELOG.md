@@ -1,3 +1,7 @@
+# 1.2.0 - 06/17/2019
+## Dependency Updates
+* [[92dff4b](https://github.com/spothero/stylelint-config/commit/92dff4b)] - Upgrade dependencies, add Codeowners file (boiarqin)
+
 # 1.1.5 - 05/13/2019
 
 ## Miscellaneous Updates
