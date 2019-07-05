@@ -1,6 +1,6 @@
 {
   "name": "@spothero/stylelint-config",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "SpotHero's base stylelint configuration.",
   "main": "index.js",
   "repository": "https://github.com/spothero/stylelint-config",
