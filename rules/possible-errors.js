@@ -13,7 +13,11 @@ module.exports = {
         // unit
         'unit-no-unknown': true,
         // property
-        'property-no-unknown': true,
+        "property-no-unknown": [true, {
+            "ignoreProperties": [
+                "composes",
+            ]
+        }],
         // keyframe declaration
         'keyframe-declaration-no-important': true,
         // declaration block
