@@ -1,3 +1,8 @@
+# 1.3.0 - 08/11/2019
+## New Features
+* [[beba738](https://github.com/spothero/stylelint-config/commit/beba738)] - Allow global and local pseudo classes for CSS modules (Matt Przybylski)
+* [[a3e41c9](https://github.com/spothero/stylelint-config/commit/a3e41c9)] - Allow composes property for CSS modules (Matt Przybylski)
+
 # 1.2.1 - 07/05/2019
 
 ## Miscellaneous Updates
