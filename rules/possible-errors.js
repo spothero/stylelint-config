@@ -13,9 +13,9 @@ module.exports = {
         // unit
         'unit-no-unknown': true,
         // property
-        "property-no-unknown": [true, {
-            "ignoreProperties": [
-                "composes",
+        'property-no-unknown': [true, {
+            ignoreProperties: [
+                'composes',
             ]
         }],
         // keyframe declaration
@@ -26,7 +26,12 @@ module.exports = {
         // block
         'block-no-empty': true,
         // selector
-        'selector-pseudo-class-no-unknown': true,
+        'selector-pseudo-class-no-unknown': [true, {
+            ignorePseudoClasses: [
+                'global',
+                'local',
+            ]
+        }],
         'selector-pseudo-element-no-unknown': true,
         'selector-type-no-unknown': true,
         // media feature
