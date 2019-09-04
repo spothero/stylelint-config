@@ -1,3 +1,7 @@
+# 1.4.0 - 09/04/2019
+## New Features
+* [[b144828](https://github.com/spothero/stylelint-config/commit/b144828)] - Add Prettier integration ([#3](https://github.com/spothero/stylelint-config/pull/3)) (Matt Przybylski)
+
 # 1.3.0 - 08/11/2019
 ## New Features
 * [[beba738](https://github.com/spothero/stylelint-config/commit/beba738)] - Allow global and local pseudo classes for CSS modules (Matt Przybylski)
