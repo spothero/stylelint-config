@@ -2,46 +2,19 @@
 This module provides your project with an extendable base stylelint configuration to develop applications adhering to SpotHero's CSS/Sass coding standards. It also adds [Prettier](https://prettier.io/) support for Sass development.
 
 ## Installation
-`npm install @spothero/stylelint-config prettier -D`
+`npm install @spothero/stylelint-config @spothero/prettier-config -D`
 
 ## Usage
-Create a `.stylelintrc` file in your project's root and add the following:
+Create a `stylelint` key in your `package.json` file and extend this configuration:
 
 ```
 {
-    "extends": ["@spothero/stylelint-config", "stylelint-prettier/recommended"]
+    "stylelint": {
+        "extends": [
+            "@spothero/stylelint-config",
+            "stylelint-prettier/recommended"
+        ]
+    }
 }
 
-```
-
-Create a `.prettierrc` file in your project's root and add the following:
-```
-{
-    "bracketSpacing": false,
-    "endOfLine": "lf",
-    "singleQuote": true,
-    "tabWidth": 4,
-    "trailingComma": "es5",
-    "overrides": [
-        {
-            "files": "*.json",
-            "options": {
-                "tabWidth": 2
-            }
-        },
-        {
-            "files": "*.scss",
-            "options": {
-                "singleQuote": false
-            }
-        }
-    ]
-}
-```
-
-Optionally, add a `.prettierignore` file in your project's root with the below:
-```
-*.md
-```
-
-This will ignore formatting on `.md` files which may be annoying and possibly cause display issues.
+Lastly, set up the Prettier configuration according to the [usage guide](https://github.com/spothero/prettier-config#usage).

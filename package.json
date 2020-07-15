@@ -25,7 +25,7 @@
     "@spothero/npm-publisher": "2.3.2"
   },
   "peerDependencies": {
-    "prettier": "^1.18.2"
+    "@spothero/prettier-config": "^0.1.1"
   },
   "engines": {
     "node": ">=10.3.0",

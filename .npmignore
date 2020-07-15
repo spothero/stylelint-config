@@ -1,3 +1,4 @@
 node_modules
 .nvmrc
+.prettierignore
 commitlint.config.js
