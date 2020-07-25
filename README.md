@@ -16,5 +16,6 @@ Create a `stylelint` key in your `package.json` file and extend this configurati
         ]
     }
 }
+```
 
 Lastly, set up the Prettier configuration according to the [usage guide](https://github.com/spothero/prettier-config#usage).
