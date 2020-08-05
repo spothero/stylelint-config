@@ -1,6 +1,11 @@
 module.exports = {
     rules: {
+        // alpha-value
+        'alpha-value-notation': 'number',
+        // hue
+        'hue-degree-notation': 'number',
         // color
+        'color-function-notation': 'legacy',
         'color-named': 'never',
         'color-no-hex': null,
         // function
