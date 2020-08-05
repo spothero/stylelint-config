@@ -62,10 +62,7 @@ module.exports = {
         'selector-pseudo-element-blacklist': null,
         'selector-pseudo-element-whitelist': null,
         // media feature
-        'media-feature-name-blacklist': [
-            'min-width',
-            'max-width'
-        ],
+        'media-feature-name-blacklist': ['min-width', 'max-width'],
         'media-feature-name-no-vendor-prefix': null,
         'media-feature-name-value-whitelist': null,
         'media-feature-name-whitelist': null,
@@ -79,6 +76,6 @@ module.exports = {
         'comment-word-blacklist': null,
         // general/sheet
         'max-nesting-depth': 8,
-        'no-unknown-animations': true
-    }
+        'no-unknown-animations': true,
+    },
 };
