@@ -1,3 +1,3 @@
 module.exports = {
-    extends: ['@spothero/commitlint-config']
+    extends: ['@spothero/commitlint-config'],
 };

@@ -6,6 +6,15 @@
   "repository": "https://github.com/spothero/stylelint-config",
   "author": "SpotHero",
   "license": "Apache-2.0",
+  "eslintConfig": {
+    "extends": [
+      "@spothero",
+      "plugin:prettier/recommended",
+      "prettier/babel",
+      "prettier/react"
+    ]
+  },
+  "prettier": "@spothero/prettier-config",
   "scripts": {
     "release": "npm-release -- public"
   },
@@ -15,20 +24,22 @@
     }
   },
   "dependencies": {
-    "stylelint": "10.1.0",
-    "stylelint-config-prettier": "5.2.0",
-    "stylelint-prettier": "1.1.1",
-    "stylelint-scss": "3.10.0"
+    "stylelint": "13.6.1",
+    "stylelint-config-prettier": "8.0.2",
+    "stylelint-prettier": "1.1.2",
+    "stylelint-scss": "3.18.0"
   },
   "devDependencies": {
     "@spothero/commitlint-config": "2.1.2",
-    "@spothero/npm-publisher": "2.3.2"
+    "@spothero/eslint-config": "1.9.1",
+    "@spothero/npm-publisher": "2.3.2",
+    "@spothero/prettier-config": "0.1.1"
   },
   "peerDependencies": {
     "@spothero/prettier-config": "^0.1.1"
   },
   "engines": {
-    "node": ">=10.3.0",
-    "npm": ">=6.1.0"
+    "node": ">=12.13.0",
+    "npm": ">=6.12.0"
   }
 }

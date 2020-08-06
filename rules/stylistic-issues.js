@@ -54,9 +54,12 @@ module.exports = {
         'declaration-block-trailing-semicolon': 'always',
         // block
         'block-closing-brace-empty-line-before': 'never',
-        'block-closing-brace-newline-after': ['always', {
-            ignoreAtRules: ['if', 'else']
-        }],
+        'block-closing-brace-newline-after': [
+            'always',
+            {
+                ignoreAtRules: ['if', 'else'],
+            },
+        ],
         'block-closing-brace-newline-before': 'always',
         'block-closing-brace-space-after': 'always-single-line',
         'block-closing-brace-space-before': 'always-single-line',
@@ -83,10 +86,13 @@ module.exports = {
         'selector-list-comma-space-after': 'always-single-line',
         'selector-list-comma-space-before': 'never-single-line',
         // rule
-        'rule-empty-line-before': ['always', {
-            ignore: ['after-comment', 'inside-block'],
-            except: ['after-single-line-comment']
-        }],
+        'rule-empty-line-before': [
+            'always',
+            {
+                ignore: ['after-comment', 'inside-block'],
+                except: ['after-single-line-comment'],
+            },
+        ],
         // media feature
         'media-feature-colon-space-after': 'always',
         'media-feature-colon-space-before': 'never',
@@ -100,11 +106,14 @@ module.exports = {
         'media-query-list-comma-space-after': 'always-single-line',
         'media-query-list-comma-space-before': 'never-single-line',
         // at-rule
-        'at-rule-empty-line-before': ['always', {
-            except: ['blockless-after-blockless', 'first-nested'],
-            ignore: ['after-comment'],
-            ignoreAtRules: ['if', 'else']
-        }],
+        'at-rule-empty-line-before': [
+            'always',
+            {
+                except: ['blockless-after-blockless', 'first-nested'],
+                ignore: ['after-comment'],
+                ignoreAtRules: ['if', 'else'],
+            },
+        ],
         'at-rule-name-case': 'lower',
         'at-rule-name-newline-after': null,
         'at-rule-name-space-after': 'always-single-line',
@@ -114,12 +123,13 @@ module.exports = {
         'comment-empty-line-before': null,
         'comment-whitespace-inside': 'always',
         // general/sheet
-        'indentation': 4,
-        'linebreaks': 'unix',
+        indentation: 4,
+        linebreaks: 'unix',
         'max-empty-lines': 1,
         'max-line-length': null,
         'no-eol-whitespace': true,
         'no-missing-end-of-source-newline': true,
-        'no-empty-first-line': true
-    }
+        'no-empty-first-line': true,
+        'unicode-bom': 'never',
+    },
 };
