@@ -1,3 +1,16 @@
+# 2.0.0 - 08/06/2020
+
+## Breaking Changes
+* [[f091a59](https://github.com/spothero/stylelint-config/commit/f091a59)] - Implement stylelint-scss & version bumps ([#5](https://github.com/spothero/stylelint-config/pull/5)) (Matt Przybylski)
+	* `chore:` Add ESLint and Prettier configs
+	* `feat:` Add stylelint-scss support and bump stylelint to latest version
+	* `chore:` Update to latest dependencies
+	* `breaking:` Support node 12.13.0+
+
+## Miscellaneous Updates
+* [[d84bec6](https://github.com/spothero/stylelint-config/commit/d84bec6)] - `docs:` Fix incorrect formatting of README (Matt)
+* [[91f755d](https://github.com/spothero/stylelint-config/commit/91f755d)] - `docs:` Update usage in README (Matt)
+
 # 1.4.0 - 09/04/2019
 ## New Features
 * [[b144828](https://github.com/spothero/stylelint-config/commit/b144828)] - Add Prettier integration ([#3](https://github.com/spothero/stylelint-config/pull/3)) (Matt Przybylski)
