@@ -1,3 +1,8 @@
+# 2.1.0 - 11/24/2020
+
+## Dependency Updates
+* [[bd9a23c](https://github.com/spothero/stylelint-config/commit/bd9a23c)] - Upgrade npm-publisher ([#6](https://github.com/spothero/stylelint-config/pull/6)) (Boiar Qin)
+
 # 2.0.0 - 08/06/2020
 
 ## Breaking Changes
