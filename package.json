@@ -30,9 +30,9 @@
     "stylelint-scss": "3.18.0"
   },
   "devDependencies": {
-    "@spothero/commitlint-config": "2.1.2",
+    "@spothero/commitlint-config": "2.2.0",
     "@spothero/eslint-config": "1.9.1",
-    "@spothero/npm-publisher": "2.3.2",
+    "@spothero/npm-publisher": "2.4.1",
     "@spothero/prettier-config": "0.1.1"
   },
   "peerDependencies": {
