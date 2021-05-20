@@ -1,3 +1,8 @@
+# 2.2.0 - 05/20/2021
+
+## Dependency Updates
+* [[36e819f](https://github.com/spothero/stylelint-config/commit/36e819f)] - Update npm-publisher, prettier-config, eslint-config and commitlint-config deps ([#10](https://github.com/spothero/stylelint-config/pull/10)) (Eddie Padin)
+
 # 2.1.0 - 11/24/2020
 
 ## Dependency Updates
