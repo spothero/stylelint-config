@@ -24,19 +24,16 @@
     }
   },
   "dependencies": {
-    "stylelint": "13.6.1",
+    "stylelint": "13.13.1",
     "stylelint-config-prettier": "8.0.2",
-    "stylelint-prettier": "1.1.2",
-    "stylelint-scss": "3.18.0"
+    "stylelint-prettier": "1.2.0",
+    "stylelint-scss": "3.19.0"
   },
   "devDependencies": {
-    "@spothero/commitlint-config": "2.3.0",
-    "@spothero/eslint-config": "2.2.0",
-    "@spothero/npm-publisher": "2.4.2",
-    "@spothero/prettier-config": "0.3.0"
-  },
-  "peerDependencies": {
-    "@spothero/prettier-config": "^0.1.1"
+    "@spothero/commitlint-config": "2.5.0",
+    "@spothero/eslint-config": "2.3.0",
+    "@spothero/npm-publisher": "2.5.0",
+    "@spothero/prettier-config": "0.4.0"
   },
   "engines": {
     "node": ">=12.13.0",
