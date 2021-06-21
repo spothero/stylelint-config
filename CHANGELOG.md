@@ -1,3 +1,8 @@
+# 2.3.0 - 06/21/2021
+
+## Dependency Updates
+* [[309eb8e](https://github.com/spothero/stylelint-config/commit/309eb8e)] - Update npm deps to fix security vulnerabiities ([#14](https://github.com/spothero/stylelint-config/pull/14)) (Gru Singh)
+
 # 2.2.0 - 05/20/2021
 
 ## Dependency Updates
